@@ -44,7 +44,6 @@ big_cities = {
        "Honolulu": (21.304547, -157.855676),
        "Anchorage": (61.2163129, -149.894852),
        "Salt Lake City": (40.7596198, -111.886797)
-
   }
 
 max_distance = 500
