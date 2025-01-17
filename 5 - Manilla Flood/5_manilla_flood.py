@@ -1,5 +1,6 @@
 pip install folium
 
+
 # importing libraries
 import pandas as pd
 import folium
